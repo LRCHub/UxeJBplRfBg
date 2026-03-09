@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "NEW DAYS",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-03-09T01:18:40.561043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always New Days Always",
+      "artist": "Grace Cummings",
+      "has_synced": false,
+      "path": "select/01_Always_New_Days_Always_Grace_Cummings.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NEW DAYS DAWN",
+      "artist": "Hyde",
+      "has_synced": true,
+      "path": "select/02_NEW_DAYS_DAWN_Hyde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A New Day's Coming",
+      "artist": "Frank Iero feat. The Future Violents",
+      "has_synced": true,
+      "path": "select/03_A_New_Day's_Coming_Frank_Iero_feat._The_Future_Violents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A New Day's Coming",
+      "artist": "Frank Iero",
+      "has_synced": true,
+      "path": "select/04_A_New_Day's_Coming_Frank_Iero.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "New Days Dawn",
+      "artist": "Datarock",
+      "has_synced": true,
+      "path": "select/05_New_Days_Dawn_Datarock.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "川村ゆみ",
+      "has_synced": false,
+      "path": "select/06_Brand_New_Days_川村ゆみ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Brand New Days (Yuyoyuppe Remix)",
+      "artist": "加藤達也",
+      "has_synced": false,
+      "path": "select/07_Brand_New_Days_(Yuyoyuppe_Remix)_加藤達也.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brand New Days (Yuyoyuppe Remix)",
+      "artist": "Yuyoyuppe",
+      "has_synced": false,
+      "path": "select/08_Brand_New_Days_(Yuyoyuppe_Remix)_Yuyoyuppe.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "New Day's Dawn",
+      "artist": "Fozzy",
+      "has_synced": true,
+      "path": "select/09_New_Day's_Dawn_Fozzy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A New Day's Coming",
+      "artist": "DGM",
+      "has_synced": false,
+      "path": "select/10_A_New_Day's_Coming_DGM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Yumi Kawamura",
+      "has_synced": true,
+      "path": "select/11_Brand_New_Days_Yumi_Kawamura.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Djmax",
+      "has_synced": true,
+      "path": "select/12_Brand_New_Days_Djmax.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brand NEW Days",
+      "artist": "planetboom",
+      "has_synced": false,
+      "path": "select/13_Brand_NEW_Days_planetboom.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Yumi Kawamura",
+      "has_synced": false,
+      "path": "select/14_Brand_New_Days_Yumi_Kawamura.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brand New Days",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/15_Brand_New_Days_Apink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEW DAYS",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_NEW_DAYS_KMNZ.txt"
+    }
+  ]
+}
